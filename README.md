@@ -1,8 +1,7 @@
-#myReads project
+# myReads project
 
 This is a project  for the final  project for Udacity's React Fundamentals course.
-
-#o get started developing right away:
+# to get started developing right away:
 
 install all project dependencies with npm install
 start the development server with npm start 
