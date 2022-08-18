@@ -1,3 +1,12 @@
+#myReads project
+
+This is a project  for the final  project for Udacity's React Fundamentals course.
+
+#o get started developing right away:
+
+install all project dependencies with npm install
+start the development server with npm start 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
