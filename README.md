@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyReads Project
 
 ## About The App
