@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
+=======
+import {BrowserRouter} from 'react-router-dom';
+>>>>>>> master
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

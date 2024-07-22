@@ -3,6 +3,7 @@ import Home from './components/Home';
 import * as bookApi from './components/booksApi';
 import {useEffect,useState} from "react";
 import Search from './components/Search';
+import { Routes, Route, Link } from "react-router-dom";
 
 
 function App() {
@@ -19,7 +20,6 @@ function App() {
       const res = await bookApi.getAll();
       setBooks(res);
       setMapOfIdToBooks(createMapOfBooks(res))
-
       
     };
     getBooks();
@@ -60,8 +60,6 @@ function App() {
     bookApi.update(book, whereTo);
   }
    
-
-
 
 
 
